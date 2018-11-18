@@ -4,7 +4,7 @@ Grab a screenshot from a URL and save it with the right dimensions for a Drupal 
 
 ## Usage
 
-`npx @philw_/drupal-theme-screenshot -- --url=https://example.com`
+`npx @philw_/drupal-theme-screenshot --url="https://example.com"`
 
 ## Contributing
 
