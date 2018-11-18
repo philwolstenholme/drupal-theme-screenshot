@@ -4,7 +4,7 @@ Grab a screenshot from a URL and save it with the right dimensions for a Drupal 
 
 ## Usage
 
-Run the script from your theme's root directory. `drupal-theme-screenshot` will output a file called `drupal-theme-screenshot` to whatever directory it is run from.
+Run the script from your theme's root directory. `drupal-theme-screenshot` will output a file called `screenshot.png` to whatever directory it is run from.
 
 ```
 npx @philw_/drupal-theme-screenshot --url="https://example.com"
