@@ -1,6 +1,6 @@
 # drupal-theme-screenshot
 
-Grab a screenshot from a URL and save it with the right dimensions for a Drupal theme's screenshot
+Grab a screenshot from a URL and save it with the right dimensions for a Drupal theme's screenshot.
 
 ## Usage
 
